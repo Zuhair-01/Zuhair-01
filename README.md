@@ -7,7 +7,6 @@ Currently: landing a remote IT/security role while stacking free certifications 
 
 - 🌱 Currently working through: Cisco Intro to Cybersecurity, TryHackMe Pre Security
 - 🎯 Goal: remote Tier-1 SOC / IT support role, then move deeper into cybersecurity
-- 🔗 LinkedIn: _add your profile URL here_
-- 🔗 TryHackMe / HackTheBox: _add your public profile links here once set up_
-
-<!-- Full roadmap and cert tracker: ask me for the link -->
+- 🔗 LinkedIn: [linkedin.com/in/zuhaur-wazz-3a748a34b](https://www.linkedin.com/in/zuhaur-wazz-3a748a34b/)
+- 🔗 TryHackMe: [tryhackme.com/p/axissummer](https://tryhackme.com/p/axissummer)
+- 🔗 HackTheBox: _add your public profile link once set up_
