@@ -2,7 +2,7 @@
 
 AI Engineering & Cybersecurity student at Syrian Private University (SPU), building working systems across AI, data automation, and security analytics — not just tutorials. Six projects, from a local-LLM contract analyzer to a live production marketplace, each documented with what works, what doesn't, and why.
 
-**Portfolio:** [zuhair-01.github.io/portfolio](https://zuhair-01.github.io/portfolio/) · **LinkedIn:** [in/zuhaur-wazz-3a748a34b](https://www.linkedin.com/in/zuhaur-wazz-3a748a34b/) · **TryHackMe:** [tryhackme.com/p/axissummer](https://tryhackme.com/p/axissummer)
+**Portfolio:** [zuhair-01.github.io/portfolio](https://zuhair-01.github.io/portfolio/) · **LinkedIn:** [in/zuhair-wazz-3a748a34b](https://www.linkedin.com/in/zuhair-wazz-3a748a34b/) · **TryHackMe:** [tryhackme.com/p/axissummer](https://tryhackme.com/p/axissummer)
 
 #### Featured projects
 
