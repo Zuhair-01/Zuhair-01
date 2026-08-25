@@ -55,12 +55,12 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Zuhair-01&show_icons=true&hide_border=true&bg_color=00000000&title_color=eef1fb&text_color=9aa3bd&icon_color=6d8bff">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=Zuhair-01&show_icons=true&hide_border=true">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=Zuhair-01&show_icons=true&hide_border=true&bg_color=00000000&title_color=eef1fb&text_color=9aa3bd&icon_color=6d8bff">
+    <img height="165" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=Zuhair-01&show_icons=true&hide_border=true">
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Zuhair-01&layout=compact&hide_border=true&bg_color=00000000&title_color=eef1fb&text_color=9aa3bd">
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zuhair-01&layout=compact&hide_border=true">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=Zuhair-01&layout=compact&hide_border=true&bg_color=00000000&title_color=eef1fb&text_color=9aa3bd">
+    <img height="165" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=Zuhair-01&layout=compact&hide_border=true">
   </picture>
 </div>
 
