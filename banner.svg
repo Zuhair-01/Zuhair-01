@@ -1,26 +1,48 @@
 <svg width="1200" height="280" viewBox="0 0 1200 280" fill="none" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="bgp" x1="0" y1="0" x2="1200" y2="280" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#05070F"/><stop offset="1" stop-color="#0A0E1C"/>
+      <stop stop-color="#05070F"/><stop offset="1" stop-color="#080b16"/>
     </linearGradient>
-    <linearGradient id="wg" x1="80" y1="120" x2="1120" y2="180" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#6D8BFF"/><stop offset=".55" stop-color="#9B6DFF"/><stop offset="1" stop-color="#FFC861"/>
-    </linearGradient>
-    <radialGradient id="g1" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(220 70) scale(360)">
-      <stop stop-color="#3D5BFF" stop-opacity=".5"/><stop offset="1" stop-color="#3D5BFF" stop-opacity="0"/>
-    </radialGradient>
-    <radialGradient id="g2" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1010 220) scale(330)">
-      <stop stop-color="#8B3DFF" stop-opacity=".45"/><stop offset="1" stop-color="#8B3DFF" stop-opacity="0"/>
+    <radialGradient id="g1" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(880 40) scale(420)">
+      <stop stop-color="#4F7CFF" stop-opacity=".16"/><stop offset="1" stop-color="#4F7CFF" stop-opacity="0"/>
     </radialGradient>
   </defs>
   <rect width="1200" height="280" fill="url(#bgp)"/>
   <rect width="1200" height="280" fill="url(#g1)"/>
-  <rect width="1200" height="280" fill="url(#g2)"/>
-  <g opacity=".14" stroke="#1C2440">
+  <g opacity=".12" stroke="#1C2440">
     <path d="M0 56H1200M0 112H1200M0 168H1200M0 224H1200"/>
-    <path d="M96 0V280M192 0V280M288 0V288M384 0V280M480 0V280M576 0V280M672 0V280M768 0V280M864 0V280M960 0V280M1056 0V280M1152 0V280"/>
+    <path d="M96 0V280M192 0V280M288 0V280M384 0V280M480 0V280M576 0V280M672 0V280"/>
   </g>
-  <text x="600" y="118" font-family="Segoe UI, Inter, sans-serif" font-size="62" font-weight="800" fill="#EEF1FB" text-anchor="middle" letter-spacing="-2">Zuhair</text>
-  <text x="600" y="166" font-family="JetBrains Mono, monospace" font-size="22" font-weight="600" fill="url(#wg)" text-anchor="middle">AI Engineering · Cybersecurity · Systems that actually run</text>
-  <text x="600" y="212" font-family="JetBrains Mono, monospace" font-size="15" fill="#8B94AD" text-anchor="middle">$ ls ~/builds  →  production marketplace · LLM pipelines · security analytics · agent tooling</text>
+
+  <!-- left: identity -->
+  <g>
+    <rect x="64" y="60" width="207" height="26" rx="13" fill="#4F7CFF1F" stroke="#4F7CFF4D"/>
+    <circle cx="79" cy="73" r="4" fill="#3DDC97"/>
+    <text x="91" y="77" font-family="JetBrains Mono, monospace" font-size="11" font-weight="700" letter-spacing="1.5" fill="#4F7CFF">OPEN TO JUNIOR AI ROLES</text>
+
+    <text x="62" y="146" font-family="Segoe UI, Inter, sans-serif" font-size="58" font-weight="800" fill="#EEF1FB" letter-spacing="-2">Zuhair</text>
+    <text x="62" y="182" font-family="Segoe UI, Inter, sans-serif" font-size="19" fill="#9AA3BD">AI Engineering &amp; Cybersecurity — systems that <tspan fill="#EEF1FB" font-weight="600">actually run</tspan>.</text>
+
+    <text x="62" y="222" font-family="JetBrains Mono, monospace" font-size="13" fill="#5C6580">Two live products</text>
+    <circle cx="204" cy="218" r="2" fill="#5C6580"/>
+    <text x="216" y="222" font-family="JetBrains Mono, monospace" font-size="13" fill="#5C6580">Twelve builds</text>
+    <circle cx="332" cy="218" r="2" fill="#5C6580"/>
+    <text x="344" y="222" font-family="JetBrains Mono, monospace" font-size="13" fill="#5C6580">57/57 tests</text>
+  </g>
+
+  <!-- right: terminal panel, matches the portfolio site's own hero -->
+  <g>
+    <rect x="700" y="52" width="436" height="176" rx="12" fill="#0A0F22" stroke="#2A3560"/>
+    <rect x="700" y="52" width="436" height="30" rx="12" fill="#ffffff08"/>
+    <path d="M700 64a12 12 0 0 1 12-12h412a12 12 0 0 1 12 12v6H700v-6Z" fill="#ffffff08"/>
+    <circle cx="717" cy="67" r="5" fill="#FF5F57"/>
+    <circle cx="734" cy="67" r="5" fill="#FEBC2E"/>
+    <circle cx="751" cy="67" r="5" fill="#28C840"/>
+    <text x="722" y="103" font-family="JetBrains Mono, monospace" font-size="13" fill="#4F7CFF" font-weight="700">$ <tspan fill="#A9C0FF">portfolio --list --verified</tspan></text>
+    <text x="722" y="128" font-family="JetBrains Mono, monospace" font-size="12.5" fill="#3DDC97">01 ostazi-edu.com ........... live production</text>
+    <text x="722" y="150" font-family="JetBrains Mono, monospace" font-size="12.5" fill="#9AA3BD">02 open-axis</text>
+    <text x="722" y="172" font-family="JetBrains Mono, monospace" font-size="12.5" fill="#9AA3BD">03 chrome-agent-bridge</text>
+    <text x="722" y="194" font-family="JetBrains Mono, monospace" font-size="12.5" fill="#9AA3BD">04 ai-security-log-analyzer</text>
+    <rect x="722" y="200" width="7" height="14" fill="#4F7CFF"/>
+  </g>
 </svg>
