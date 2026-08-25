@@ -32,8 +32,11 @@
 | | Project | What it is |
 |---|---|---|
 | 🚀 | **[TutorLink-Syria → Ostazi](https://github.com/Zuhair-01/TutorLink-Syria)** | Live production tutoring marketplace (ostazi-edu.com): OTP auth, booking state machine, commission ledger, institute accounts |
+| 🛒 | **[alwazour](https://github.com/Zuhair-01/alwazour)** | Live technology-supply storefront for a Damascus business (alwazour.vercel.app) — Arabic RTL catalog, product inquiry flow |
 | 🧠 | **[open-axis](https://github.com/Zuhair-01/open-axis)** | Local control plane routing engineering tasks across Claude Code / OpenCode / Codex — tier routing, deterministic fallback · 45/45 tests |
 | 🌉 | **[chrome-agent-bridge](https://github.com/Zuhair-01/chrome-agent-bridge)** | Universal CDP-native Chrome control for *any* AI agent — OpenCode, Codex, Claude, anything with a shell |
+| 🧩 | **[kyros](https://github.com/Zuhair-01/kyros)** | Deterministic task-routing dispatcher + GPU mutex for local/cloud AI model orchestration · 16/16 tests |
+| 📈 | **[nabd](https://github.com/Zuhair-01/nabd)** | Free-first B2B sales-intelligence engine — buying-signal detection, ICP discovery, transparent scoring. Archived, code complete |
 | 📊 | **[enterprise-bi-platform](https://github.com/Zuhair-01/enterprise-bi-platform)** | BI dashboard over a real CSV validation/cleaning/transform pipeline |
 | 📄 | **[ai-contract-intelligence](https://github.com/Zuhair-01/ai-contract-intelligence)** | Local-LLM contract extraction that reports missing fields honestly. Zero API keys |
 | 🛡️ | **[ai-security-log-analyzer](https://github.com/Zuhair-01/ai-security-log-analyzer)** | Deterministic detection engine (brute force, impossible travel, port scans) + LLM summaries · 12/12 tests |
@@ -42,10 +45,9 @@
 <summary><b>More from the workshop</b></summary>
 <br>
 
-- **[kyros](https://github.com/Zuhair-01/kyros)** — deterministic task-routing dispatcher + GPU mutex for local/cloud model orchestration · 16/16 tests
-- **[nabd](https://github.com/Zuhair-01/nabd)** — free-first B2B sales-intelligence engine (buying signals, ICP discovery)
-- **[alwazour](https://github.com/Zuhair-01/alwazour)** — technology supply site for a Damascus business, live on Vercel
 - **[personal-brand-engine](https://github.com/Zuhair-01/personal-brand-engine)** — drafts social posts from finished projects; review-then-approve
+- **[editor-intel](https://github.com/Zuhair-01/editor-intel)** — presets and interview prep tooling built around Claude Code / Kyros
+- **[the full workshop →](https://github.com/Zuhair-01?tab=repositories)**
 
 </details>
 
