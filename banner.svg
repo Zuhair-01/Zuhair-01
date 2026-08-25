@@ -1,0 +1,26 @@
+<svg width="1200" height="280" viewBox="0 0 1200 280" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgp" x1="0" y1="0" x2="1200" y2="280" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#05070F"/><stop offset="1" stop-color="#0A0E1C"/>
+    </linearGradient>
+    <linearGradient id="wg" x1="80" y1="120" x2="1120" y2="180" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#6D8BFF"/><stop offset=".55" stop-color="#9B6DFF"/><stop offset="1" stop-color="#FFC861"/>
+    </linearGradient>
+    <radialGradient id="g1" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(220 70) scale(360)">
+      <stop stop-color="#3D5BFF" stop-opacity=".5"/><stop offset="1" stop-color="#3D5BFF" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="g2" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1010 220) scale(330)">
+      <stop stop-color="#8B3DFF" stop-opacity=".45"/><stop offset="1" stop-color="#8B3DFF" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="280" fill="url(#bgp)"/>
+  <rect width="1200" height="280" fill="url(#g1)"/>
+  <rect width="1200" height="280" fill="url(#g2)"/>
+  <g opacity=".14" stroke="#1C2440">
+    <path d="M0 56H1200M0 112H1200M0 168H1200M0 224H1200"/>
+    <path d="M96 0V280M192 0V280M288 0V288M384 0V280M480 0V280M576 0V280M672 0V280M768 0V280M864 0V280M960 0V280M1056 0V280M1152 0V280"/>
+  </g>
+  <text x="600" y="118" font-family="Segoe UI, Inter, sans-serif" font-size="62" font-weight="800" fill="#EEF1FB" text-anchor="middle" letter-spacing="-2">Zuhair</text>
+  <text x="600" y="166" font-family="JetBrains Mono, monospace" font-size="22" font-weight="600" fill="url(#wg)" text-anchor="middle">AI Engineering · Cybersecurity · Systems that actually run</text>
+  <text x="600" y="212" font-family="JetBrains Mono, monospace" font-size="15" fill="#8B94AD" text-anchor="middle">$ ls ~/builds  →  production marketplace · LLM pipelines · security analytics · agent tooling</text>
+</svg>
