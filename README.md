@@ -23,11 +23,11 @@ I build <i>complete working systems</i> — not tutorials — and document what 
 
 <div align="center">
 
-<img src="wordmark.svg" alt="ZUHAIR" width="65%">
+<img src="portrait.svg" alt="Zuhair — generated from the real profile avatar, pixel by pixel" width="46%">
 
 <br><br>
 
-<img src="portrait.svg" alt="Zuhair — generated from the real profile avatar, pixel by pixel" width="50%">
+<img src="wordmark.svg" alt="ZUHAIR" width="30%">
 
 </div>
 
