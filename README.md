@@ -1,11 +1,11 @@
 <div align="center">
-  <img src="banner.svg" alt="Zuhair — AI Engineering & Cybersecurity" width="100%">
+<img src="banner.svg" alt="Zuhair — AI Engineering & Cybersecurity" width="100%">
 </div>
 
 <h1 align="center">Hey, I'm Zuhair 👋</h1>
 <p align="center">
-  <b>AI Engineering & Cybersecurity student</b> at the Syrian Private University.<br>
-  I build <i>complete working systems</i> — not tutorials — and document what works, what doesn't, and why.
+<b>AI Engineering & Cybersecurity student</b> at the Syrian Private University.<br>
+I build <i>complete working systems</i> — not tutorials — and document what works, what doesn't, and why.
 </p>
 
 <div align="center">
@@ -21,67 +21,15 @@
 
 ---
 
+<div align="center">
 
+<img src="wordmark.svg" alt="ZUHAIR" width="65%">
 
-                                                               ..-*****#%++*                        
-                                                                  :=::+%*%#*:                       
-                                                                     = .-%++:                       
-                                                                     +.-@*%#-                       
-                                                                    --.*@*%#+                       
-                                                                  .= -==%@#*-                       
-                                              @##                   -.=#**%#-                       
-                                         +=+  :  :%:              - :=..%*@%:                       
-                                               :: -++            . .- :-@@@#-                       
-                                     @         ::-+++*-            .- -=#@##+                       
-                                    *         :=- -+++*@+            .--*@##:                       
-                                           = .: :%*@@+#%%            - *=%@%+                       
-                                 .*-    -       - %@+%%%#%.+         :*%-%*@-::                     
-                                  .    .      :#* =:+ ###@*-      .. +* @@#++:::                    
-                                @ :           # @ : * -#=%%.=      :.#*-@*%%* ::::                  
-                               -+-    .    = *  *-%#+#-% @@#       = .**=%%*+::::::                 
-                               %.% :  +     :=@ :   @--% %@%-       -=*@@@%+-+: :::                 
-                              -=.@ *  -     *   =   +    *##         =*%%%@*++-+ :: :: :            
-                              * :%-%              :*  * +=##=       -*@==%%% +++++: ::::: :         
-                              :- %*-   -     *  - :+# . +%%@%-      --.*%%*:::++:++-:::: ::::    :::
-                              ::=*+           -#: #*= % %+ ##-      ==*.#@*:-+++-+++: ::::=:::::::  
-                              +   @@:  :#     %.- @*%.#    %@=      =#*@#@++++++*:-+: ::::-::::     
-                              #:  @#@   =+     %#@*#=#*#-# +#*    # :=*%%%#+++++++++= ::::::::::   :
-                              %= :*--    :-    %@%.%%* + =++-:  - -  .%*@#*::-++++++++ :::::::::::::
-                               +.-.++#          ==-%#%=*+@:+:#  * *  *@*#*=+ -+++++++++:  ::::: ::=:
-                               @. *++     +.       :@*+%:++:+*  - % =*=%@*+--:++++++-+++++::::: ::::
-                                :@%% %-     #       *::@ :--%=    * =**%%#**:+++++++++++++::::::::: 
-                                :#*.::@       # #%@@#  :  :-#*     %+%%%##+= *+:+++++++:++ :::::::=:
-                                *:*=@ +*           :    :::-+% .     *%@#++= *++++++++=+++ :::::::::
-                              . *-+%=# =               :::: *@*..     -%%#+++-++++++++++-+ :::::::::
-                            +#==@#%*=#  @:        --      : #:**#%      %:*: +++++++::++ :: -:::::::
-                               *:++%##   %:           : :: @-%*@%#@         .:+ ++:+++= :::: :: : ::
-                       ::       : +=-++++ -:              *## +#%*              -=-: ::::: :: ::::: 
-                   #=:-             ::++ : ::          :-#*---+=*                 :::::::: -:: ::   
-                 %-                          #        -*-:   :  % %                 %:   :::::::  ::
-               +++:                   ::     %     ++:           @%:      .          #     :::::  ::
-             %  :: :                   : ::: %:                :=-#.@ -.  %     *+-        :::::   :
-            #+     :                         %      -         :#- + %@**-*-* =-@: +#       ::::    :
-                   :                         *                :*  =.:=*##*-  +-:  .++       ::     :
-          =   =     :                    :   #      -         -: =:*:::--:=  :    * .    +  :     ::
-          *:        :                        -      #+       : ::: * ::  :::      +  % %- -       ::
-        % @%-  -    +                        -      *-      :::  =:%        .     *  . +*        -::
-        @ +=    .   :                        :      +:      =-  :#:%        -        .::@  .    =:::
-          @@ .. .   :=     ::                       :   : ::+:  +-:%       :@        +- * *    ::-::
-      :.   ##=*     :#      ::                      -   : :::::  =-@        +        # +* +=+:::::::
-       *+@ .#%@      ::     ::                              ::     *        +         #%% *:% ::::::
-        *%+ =+:-     +-       :               +           ::::   +:-                =   ==**: =:::::
-     =- #-+- %+     ::+      :=       :       +          ::     ++ :                     =#: - =::::
-    #:-.  .%*%.#      +:     :::              +      ::  :::  : :+:        :              -+ : :::::
-    %- -@-   +-##    ::+       :              =      ::   :     :+:        :             %*## -:::::
-    #- .#%#@.  %+     +@      :=:    : :         ::   +:=::- :++++         -             :#*+ ::=:::
-    @ * :#%##@  :     %%:      --    :== :   :::-::---::++--:: -*=         -                 :: ::::
-  . @+: -+++*=#  :     =@      :+-:   ::::   : :++++:-+= : ::  :*+      :: *               +*#-: :::
-: - %=::.   :::@*=      -*      ++:   :-:::: : :: :+:+:++++::::++++:   : ::-            + +*@%-+::::
-*%*  +#=+      :+%%-    +%:     -#=   ::++++=::++==-+++:++-:- + +*:-:  :: :                    + :::
+<br><br>
 
+<img src="portrait.svg" alt="Zuhair — generated from the real profile avatar, pixel by pixel" width="50%">
 
-
-
+</div>
 
 ### 🧭 What I'm about
 
@@ -116,14 +64,14 @@
 ### 📈 GitHub stats
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=Zuhair-01&show_icons=true&hide_border=true&bg_color=00000000&title_color=eef1fb&text_color=9aa3bd&icon_color=6d8bff">
-    <img height="165" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=Zuhair-01&show_icons=true&hide_border=true">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=Zuhair-01&layout=compact&hide_border=true&bg_color=00000000&title_color=eef1fb&text_color=9aa3bd">
-    <img height="165" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=Zuhair-01&layout=compact&hide_border=true">
-  </picture>
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=Zuhair-01&show_icons=true&hide_border=true&bg_color=00000000&title_color=eef1fb&text_color=9aa3bd&icon_color=6d8bff">
+<img height="165" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=Zuhair-01&show_icons=true&hide_border=true">
+</picture>
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=Zuhair-01&layout=compact&hide_border=true&bg_color=00000000&title_color=eef1fb&text_color=9aa3bd">
+<img height="165" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=Zuhair-01&layout=compact&hide_border=true">
+</picture>
 </div>
 
 ### 🤝 Let's talk
@@ -131,8 +79,8 @@
 I'm open to **junior AI engineering / data / automation roles** where I can contribute and grow into enterprise-scale systems.
 
 <div align="center">
-  <a href="mailto:bizwithzuhair@gmail.com">Email</a> ·
-  <a href="https://zuhair-01.github.io/portfolio/">Portfolio</a> ·
-  <a href="https://www.linkedin.com/in/zuhair-wazz-3a748a34b/">LinkedIn</a> ·
-  <a href="https://www.ostazi-edu.com">See my live product</a>
+<a href="mailto:bizwithzuhair@gmail.com">Email</a> ·
+<a href="https://zuhair-01.github.io/portfolio/">Portfolio</a> ·
+<a href="https://www.linkedin.com/in/zuhair-wazz-3a748a34b/">LinkedIn</a> ·
+<a href="https://www.ostazi-edu.com">See my live product</a>
 </div>
