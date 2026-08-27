@@ -23,7 +23,7 @@ I build <i>complete working systems</i> — not tutorials — and document what 
 
 <div align="center">
 
-<img src="portrait.svg" alt="Zuhair — generated from the real profile avatar, pixel by pixel" width="46%">
+<img src="portrait.svg" alt="Zuhair — generated from the real profile avatar, pixel by pixel" width="54%">
 
 <br><br>
 
