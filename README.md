@@ -5,8 +5,8 @@
 <h1 align="center">Zuhair Alwazzour</h1>
 <p align="center"><b>زهير الوزّور</b></p>
 <p align="center">
-Syrian entrepreneur. Solo founder of <a href="https://www.ostazi-edu.com"><b>Ostazi</b></a> — a private tutoring platform serving students across Syria.<br>
-<i>Building quietly from Damascus. One founder, one product, shipped and running.</i>
+Syrian entrepreneur and athlete based in Damascus. Solo founder of <a href="https://www.ostazi-edu.com"><b>Ostazi</b></a> — a private tutoring platform serving students across Syria.<br>
+<i>Building quietly. One founder, one product, shipped and running.</i>
 </p>
 
 <div align="center">
