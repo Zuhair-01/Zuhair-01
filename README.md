@@ -5,14 +5,14 @@
 <h1 align="center">Zuhair Alwazzour</h1>
 <p align="center"><b>زهير الوزّور</b></p>
 <p align="center">
-Syrian entrepreneur and athlete based in Damascus. Solo founder of <a href="https://www.ostazi-edu.com"><b>Ostazi</b></a> — a private tutoring platform serving students across Syria.<br>
+Syrian entrepreneur and athlete based in Damascus. Solo founder of <a href="https://ostazi-edu.com"><b>Ostazi</b></a> — a private tutoring platform serving students across Syria.<br>
 <i>Building quietly. One founder, one product, shipped and running.</i>
 </p>
 
 <div align="center">
 
-[![Ostazi](https://img.shields.io/badge/Ostazi-live%20product-3ddc97?style=flat-square)](https://www.ostazi-edu.com)
-[![Website](https://img.shields.io/badge/zuhairalwazzour.com-6d8bff?style=flat-square)](https://zuhairalwazzour.com)
+[![Ostazi](https://img.shields.io/badge/Ostazi-live%20product-3ddc97?style=flat-square)](https://ostazi-edu.com)
+[![Website](https://img.shields.io/badge/zuhairalwazzour.vercel.app-6d8bff?style=flat-square)](https://zuhairalwazzour.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-9b6dff?style=flat-square)](https://www.linkedin.com/in/zuhairalwazzour)
 
 ![Profile views](https://komarev.com/ghpvc/?username=Zuhair-01&color=6d8bff&style=flat-square&label=views)
@@ -29,38 +29,44 @@ Syrian entrepreneur and athlete based in Damascus. Solo founder of <a href="http
 
 ### The company
 
-**[Ostazi](https://www.ostazi-edu.com)** (`ostazi-edu.com`) is a private tutoring platform I
-designed, built, and run alone. It connects students in Syria with vetted private teachers and
-handles scheduling, payments, and progress in one place — OTP auth, a booking state machine, a
-commission ledger, and institute/school accounts, all in production.
+**[Ostazi](https://ostazi-edu.com)** (`ostazi-edu.com`) is a private tutoring platform I designed,
+built, and run alone — no co-founder, no team. It connects students across Syria with vetted
+private teachers and runs the whole loop in one place: phone-OTP authentication, a booking state
+machine that survives reschedules and cancellations, a commission ledger that reconciles every
+payout, teacher verification, and separate account types for institutes and schools. It has been
+in production, taking real bookings, for months. Everything below is what I build when I'm not
+shipping Ostazi.
 
 ### How I work
 
-- **Systems, not snippets** — every project below is architecture + working code + real tests
-- **Local-first AI** — Ollama pipelines, zero paid API keys, hallucination-guards by construction
-- **Honesty as a feature** — synthetic data labeled as such, real limitations documented, not hidden
+- **Systems, not snippets** — every repo here is architecture, working code, and a real test suite. If it claims a number, the tests are in the repo.
+- **Local-first AI** — Ollama pipelines, zero paid API keys, hallucination guards built into the control flow rather than bolted on. If the model can't ground an answer, the system says so instead of guessing.
+- **Honesty as a feature** — synthetic data is labelled synthetic, torn-down infra is marked archived, and known limitations are written down in the README, not hidden.
 
 ### Selected builds
 
 | | Project | What it is |
 |---|---|---|
-| 🚀 | **[Ostazi (TutorLink-Syria)](https://github.com/Zuhair-01/TutorLink-Syria)** | Live production tutoring marketplace: OTP auth, booking state machine, commission ledger, institute accounts |
-| 🛒 | **[alwazour](https://github.com/Zuhair-01/alwazour)** | Live technology-supply storefront for a Damascus business — Arabic RTL catalog, inquiry flow |
-| 🧠 | **[open-axis](https://github.com/Zuhair-01/open-axis)** | Local control plane routing engineering tasks across Claude Code / OpenCode / Codex · 45/45 tests |
-| 🌉 | **[chrome-agent-bridge](https://github.com/Zuhair-01/chrome-agent-bridge)** | Universal CDP-native Chrome control for any AI agent |
-| 🧩 | **[kyros](https://github.com/Zuhair-01/kyros)** | Deterministic task-routing dispatcher + GPU mutex for AI model orchestration · 16/16 tests |
-| 📈 | **[nabd](https://github.com/Zuhair-01/nabd)** | Free-first B2B sales-intelligence engine — buying-signal detection, ICP discovery. Archived, code complete |
-| 🛡️ | **[ai-security-log-analyzer](https://github.com/Zuhair-01/ai-security-log-analyzer)** | Deterministic detection engine (brute force, impossible travel, port scans) + LLM summaries · 12/12 tests |
+| 🧭 | **[open-axis](https://github.com/Zuhair-01/open-axis)** | A local control plane that routes an engineering task to Claude Code, OpenCode, or Codex based on capability tier, with real fallback when one fails and durable task state that survives a restart. The dispatcher I wanted and couldn't find. 45/45 tests. |
+| 🧩 | **[kyros](https://github.com/Zuhair-01/kyros)** | Deterministic task-routing dispatcher plus a GPU mutex so local and cloud model jobs never fight over the same card. Auditable tier selection — you can see exactly why a job went where. Zero dependencies, 16/16 tests. |
+| 🌉 | **[chrome-agent-bridge](https://github.com/Zuhair-01/chrome-agent-bridge)** | Universal Chrome control for any AI coding agent — OpenCode, Codex, Claude Code, anything with a shell. Speaks the Chrome DevTools Protocol directly, so there's no extension to install and nothing to keep in sync. |
+| 🛡️ | **[ai-security-log-analyzer](https://github.com/Zuhair-01/ai-security-log-analyzer)** | A deterministic detection engine — brute force, impossible travel, port scans — with local-LLM incident summaries layered on top for the human reading the alert. The detection is rules you can audit; the LLM only writes the prose. 12/12 tests. |
+| 📈 | **[nabd](https://github.com/Zuhair-01/nabd)** | Free-first B2B sales-intelligence engine: buying-signal detection, ICP-based company discovery, transparent scoring, and outreach drafting — built entirely without paid APIs. Archived now (infra torn down) but the code is complete and runnable. |
+| 🗂️ | **[claude-code-setup](https://github.com/Zuhair-01/claude-code-setup)** | My actual working Claude Code environment — 274 skills, 165 agents, and a 10k-item offline capability library with a routing layer on top. A real setup I use every day, published as-is, not a curated demo list. |
+| 🖼️ | **[open-pinterest](https://github.com/Zuhair-01/open-pinterest)** | A Claude Code skill that finds, evaluates, and downloads real design / UI / motion references from Pinterest — images and video — cuts the subject out of the background, and hands it to the frontend build. Installable as a plugin. |
 
 <details>
 <summary><b>More from the workshop</b></summary>
 <br>
 
-- **[enterprise-bi-platform](https://github.com/Zuhair-01/enterprise-bi-platform)** — BI dashboard over a real CSV validation/cleaning/transform pipeline
-- **[ai-contract-intelligence](https://github.com/Zuhair-01/ai-contract-intelligence)** — local-LLM contract extraction that reports missing fields honestly
+- **[enterprise-ai-assistant](https://github.com/Zuhair-01/enterprise-ai-assistant)** — a natural-language business assistant that will only answer from the results of a SQL query it actually executed. If the data isn't there, it says so. Local Ollama, no keys.
+- **[enterprise-bi-platform](https://github.com/Zuhair-01/enterprise-bi-platform)** — a BI dashboard sitting on top of a real CSV validation / cleaning / transform pipeline, not a spreadsheet with a chart library.
+- **[ai-contract-intelligence](https://github.com/Zuhair-01/ai-contract-intelligence)** — local-LLM extraction, risk flagging, and natural-language search over PDF contracts, that reports the fields it *couldn't* find as clearly as the ones it could.
 - **[the full workshop →](https://github.com/Zuhair-01?tab=repositories)**
 
 </details>
+
+<sub><b>alwazour</b> — a live Arabic-RTL technology-supply storefront I built and run for a Damascus business (catalogue + inquiry flow). Private repo, real customers.</sub>
 
 ### GitHub stats
 
@@ -77,7 +83,8 @@ commission ledger, and institute/school accounts, all in production.
 
 <div align="center">
 <br>
-<a href="https://zuhairalwazzour.com">zuhairalwazzour.com</a> ·
-<a href="https://www.ostazi-edu.com">Ostazi</a> ·
-<a href="https://www.linkedin.com/in/zuhairalwazzour">LinkedIn</a>
+<a href="https://zuhairalwazzour.vercel.app">zuhairalwazzour.vercel.app</a> ·
+<a href="https://ostazi-edu.com">Ostazi</a> ·
+<a href="https://www.linkedin.com/in/zuhairalwazzour">LinkedIn</a> ·
+<a href="https://x.com/zuhairalwazzour">X</a>
 </div>
