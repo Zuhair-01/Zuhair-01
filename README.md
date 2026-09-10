@@ -13,6 +13,7 @@ Syrian entrepreneur and athlete based in Damascus. Solo founder of <a href="http
 
 [![Ostazi](https://img.shields.io/badge/Ostazi-live%20product-3ddc97?style=flat-square)](https://ostazi-edu.com)
 [![Website](https://img.shields.io/badge/zuhairalwazzour.vercel.app-6d8bff?style=flat-square)](https://zuhairalwazzour.vercel.app)
+[![Portfolio](https://img.shields.io/badge/portfolio-work%20%26%20case%20studies-e8e2d4?style=flat-square)](https://zuhair-portfolio.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-9b6dff?style=flat-square)](https://www.linkedin.com/in/zuhairalwazzour)
 
 ![Profile views](https://komarev.com/ghpvc/?username=Zuhair-01&color=6d8bff&style=flat-square&label=views)
@@ -84,6 +85,7 @@ shipping Ostazi.
 <div align="center">
 <br>
 <a href="https://zuhairalwazzour.vercel.app">zuhairalwazzour.vercel.app</a> ·
+<a href="https://zuhair-portfolio.vercel.app">Portfolio</a> ·
 <a href="https://ostazi-edu.com">Ostazi</a> ·
 <a href="https://www.linkedin.com/in/zuhairalwazzour">LinkedIn</a> ·
 <a href="https://x.com/zuhairalwazzour">X</a>
