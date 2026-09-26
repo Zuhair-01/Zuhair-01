@@ -1,5 +1,5 @@
 <div align="center">
-<img src="banner.svg" alt="Zuhair Alwazzour — founder of Ostazi" width="100%">
+<img src="banner.png" alt="Zuhair Alwazzour, founder of Ostazi, with portrait and portfolio highlights" width="100%">
 </div>
 
 <h1 align="center">Zuhair Alwazzour</h1>
