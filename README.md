@@ -1,9 +1,11 @@
 <div align="center">
-<img src="banner.png" alt="Zuhair Alwazzour, founder of Ostazi, with portrait and portfolio highlights" width="100%">
+<img src="portrait-term.svg" alt="~/$ ./portrait.sh — ASCII portrait of Zuhair Alwazzour in a terminal window" width="480">
+<br>
+<sub>run it yourself: <code>./portrait.sh</code></sub>
 </div>
 
 <h1 align="center">Zuhair Alwazzour</h1>
-<p align="center"><b>زهير الوزّور</b></p>
+<p align="center"><b>زهير الوزّور</b> · Startup Founder → Future CEO · Builder & Problem Solver</p>
 <p align="center">
 Syrian entrepreneur and athlete based in Damascus. Solo founder of <a href="https://ostazi-edu.com"><b>Ostazi</b></a> — a private tutoring platform serving students across Syria.<br>
 <i>Building quietly. One founder, one product, shipped and running.</i>
@@ -12,6 +14,7 @@ Syrian entrepreneur and athlete based in Damascus. Solo founder of <a href="http
 <div align="center">
 
 [![Ostazi](https://img.shields.io/badge/Ostazi-live%20product-3ddc97?style=flat-square)](https://ostazi-edu.com)
+[![Skills](https://img.shields.io/badge/skills-360%20open%20library-d97757?style=flat-square)](https://github.com/Zuhair-01/claude-skills-and-systems)
 [![Website](https://img.shields.io/badge/zuhairalwazzour.vercel.app-6d8bff?style=flat-square)](https://zuhairalwazzour.vercel.app)
 [![Portfolio](https://img.shields.io/badge/portfolio-work%20%26%20case%20studies-e8e2d4?style=flat-square)](https://zuhair-portfolio.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-9b6dff?style=flat-square)](https://www.linkedin.com/in/zuhairalwazzour)
@@ -21,12 +24,6 @@ Syrian entrepreneur and athlete based in Damascus. Solo founder of <a href="http
 </div>
 
 ---
-
-<div align="center">
-<img src="portrait.svg" alt="Zuhair Alwazzour" width="54%">
-<br><br>
-<img src="wordmark.svg" alt="ZUHAIR ALWAZZOUR" width="30%">
-</div>
 
 ### The company
 
@@ -48,13 +45,15 @@ shipping Ostazi.
 
 | | Project | What it is |
 |---|---|---|
+| 🧠 | **[claude-skills-and-systems](https://github.com/Zuhair-01/claude-skills-and-systems)** | 360 production-grade agent skills plus the routing systems that run them — the library that bootstraps a new Claude Code / OpenCode machine in minutes. Public, MIT, and the system behind most of the repos below. |
 | 🧭 | **[open-axis](https://github.com/Zuhair-01/open-axis)** | A local control plane that routes an engineering task to Claude Code, OpenCode, or Codex based on capability tier, with real fallback when one fails and durable task state that survives a restart. The dispatcher I wanted and couldn't find. 45/45 tests. |
 | 🧩 | **[kyros](https://github.com/Zuhair-01/kyros)** | Deterministic task-routing dispatcher plus a GPU mutex so local and cloud model jobs never fight over the same card. Auditable tier selection — you can see exactly why a job went where. Zero dependencies, 16/16 tests. |
 | 🌉 | **[chrome-agent-bridge](https://github.com/Zuhair-01/chrome-agent-bridge)** | Universal Chrome control for any AI coding agent — OpenCode, Codex, Claude Code, anything with a shell. Speaks the Chrome DevTools Protocol directly, so there's no extension to install and nothing to keep in sync. |
 | 🛡️ | **[ai-security-log-analyzer](https://github.com/Zuhair-01/ai-security-log-analyzer)** | A deterministic detection engine — brute force, impossible travel, port scans — with local-LLM incident summaries layered on top for the human reading the alert. The detection is rules you can audit; the LLM only writes the prose. 12/12 tests. |
+| 🗣️ | **[laya-windows](https://github.com/Zuhair-01/laya-windows)** | Windows port of a typed-decision AI (ONNX Runtime + DirectML) — a Core ML / Apple Neural Engine alternative with first-class Arabic support. No text generation, no hallucination, runs on any DX12 GPU. |
 | 📈 | **[nabd](https://github.com/Zuhair-01/nabd)** | Free-first B2B sales-intelligence engine: buying-signal detection, ICP-based company discovery, transparent scoring, and outreach drafting — built entirely without paid APIs. Archived now (infra torn down) but the code is complete and runnable. |
-| 🗂️ | **[claude-code-setup](https://github.com/Zuhair-01/claude-code-setup)** | My actual working Claude Code environment — 274 skills, 165 agents, and a 10k-item offline capability library with a routing layer on top. A real setup I use every day, published as-is, not a curated demo list. |
 | 🖼️ | **[open-pinterest](https://github.com/Zuhair-01/open-pinterest)** | A Claude Code skill that finds, evaluates, and downloads real design / UI / motion references from Pinterest — images and video — cuts the subject out of the background, and hands it to the frontend build. Installable as a plugin. |
+| 🧰 | **[claude-code-setup](https://github.com/Zuhair-01/claude-code-setup)** | My previous working Claude Code environment, published as-is. Superseded by [claude-skills-and-systems](https://github.com/Zuhair-01/claude-skills-and-systems) — start there. |
 
 <details>
 <summary><b>More from the workshop</b></summary>
