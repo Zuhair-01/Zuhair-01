@@ -1,5 +1,5 @@
 <div align="center">
-<img src="portrait-term.svg" alt="~/$ ./portrait.sh — ASCII portrait of Zuhair Alwazzour in a terminal window" width="480">
+<img src="portrait.svg" alt="~/$ ./portrait.sh — ASCII portrait of Zuhair Alwazzour in a terminal window" width="480">
 <br>
 <sub>run it yourself: <code>./portrait.sh</code></sub>
 </div>
