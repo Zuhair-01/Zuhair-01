@@ -5,10 +5,10 @@
 </div>
 
 <h1 align="center">Zuhair Alwazzour</h1>
-<p align="center"><b>زهير الوزّور</b> · Startup Founder → Future CEO · Builder & Problem Solver</p>
+<p align="center"><b>زهير الوزّور</b> · AI &amp; Cybersecurity Engineering Student · Builder &amp; Problem Solver</p>
 <p align="center">
-Syrian entrepreneur and athlete based in Damascus. Solo founder of <a href="https://ostazi-edu.com"><b>Ostazi</b></a> — a private tutoring platform serving students across Syria.<br>
-<i>Building quietly. One founder, one product, shipped and running.</i>
+Engineering student in Artificial Intelligence and Cybersecurity, based in Damascus. Solo founder of <a href="https://ostazi-edu.com"><b>Ostazi</b></a> — a live tutoring marketplace serving students across Syria.<br>
+<i>I build the whole system myself: database, backend, interface, deployment, support. That is why my repos carry test counts instead of screenshots.</i>
 </p>
 
 <div align="center">
@@ -24,6 +24,12 @@ Syrian entrepreneur and athlete based in Damascus. Solo founder of <a href="http
 </div>
 
 ---
+
+### What I build for clients
+
+Bilingual Arabic and English business websites with a working inquiry path, and single workflow automations. Fixed scope, one fixed quote once I have seen your brief, the source handed over, and a written handover so you can keep the site running yourself. No published price list: the same deliverable costs a shop owner and a national company very different amounts, so the quote follows the scope.
+
+Case study of a delivered client build, with the test counts and the one known failure written down: **[Alwazour, an Arabic right-to-left storefront and inquiry flow](https://zuhair-portfolio.vercel.app/projects/alwazour)**.
 
 ### The company
 
@@ -48,6 +54,7 @@ shipping Ostazi.
 | 🧠 | **[claude-skills-and-systems](https://github.com/Zuhair-01/claude-skills-and-systems)** | 360 production-grade agent skills plus the routing systems that run them — the library that bootstraps a new Claude Code / OpenCode machine in minutes. Public, MIT, and the system behind most of the repos below. |
 | 🧭 | **[open-axis](https://github.com/Zuhair-01/open-axis)** | A local control plane that routes an engineering task to Claude Code, OpenCode, or Codex based on capability tier, with real fallback when one fails and durable task state that survives a restart. The dispatcher I wanted and couldn't find. 45/45 tests. |
 | 🧩 | **[kyros](https://github.com/Zuhair-01/kyros)** | Deterministic task-routing dispatcher plus a GPU mutex so local and cloud model jobs never fight over the same card. Auditable tier selection — you can see exactly why a job went where. Zero dependencies, 16/16 tests. |
+| 📄 | **[ai-contract-intelligence](https://github.com/Zuhair-01/ai-contract-intelligence)** | Local-LLM extraction, risk flagging and natural-language search over PDF contracts, which reports the fields it *couldn't* find as clearly as the ones it could. Zero paid API keys. |
 | 🌉 | **[chrome-agent-bridge](https://github.com/Zuhair-01/chrome-agent-bridge)** | Universal Chrome control for any AI coding agent — OpenCode, Codex, Claude Code, anything with a shell. Speaks the Chrome DevTools Protocol directly, so there's no extension to install and nothing to keep in sync. |
 | 🛡️ | **[ai-security-log-analyzer](https://github.com/Zuhair-01/ai-security-log-analyzer)** | A deterministic detection engine — brute force, impossible travel, port scans — with local-LLM incident summaries layered on top for the human reading the alert. The detection is rules you can audit; the LLM only writes the prose. 12/12 tests. |
 | 🗣️ | **[laya-windows](https://github.com/Zuhair-01/laya-windows)** | Windows port of a typed-decision AI (ONNX Runtime + DirectML) — a Core ML / Apple Neural Engine alternative with first-class Arabic support. No text generation, no hallucination, runs on any DX12 GPU. |
